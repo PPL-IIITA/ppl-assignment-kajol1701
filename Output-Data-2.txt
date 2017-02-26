@@ -1,0 +1,38 @@
+6 Most Happiest Couple ---------------------
+Name : B14 -> Attractiveness : 84 -> Budget : 99 -> Intelligence Level : 54 -> Attracton Requirement : 1 -> Type : Geek -> Status : Committed
+Name : G3 -> Attractiveness : 50 -> Maintenance Cost : 69 -> Intelligence Level : 73 -> Choosing criteria : Most Rich -> Type : Normal -> Status : Committed
+
+Name : B1 -> Attractiveness : 40 -> Budget : 57 -> Intelligence Level : 28 -> Attracton Requirement : 1 -> Type : Geek -> Status : Committed
+Name : G7 -> Attractiveness : 40 -> Maintenance Cost : 34 -> Intelligence Level : 66 -> Choosing criteria : Most Attractive -> Type : Choosy -> Status : Committed
+
+Name : B10 -> Attractiveness : 54 -> Budget : 57 -> Intelligence Level : 10 -> Attracton Requirement : 64 -> Type : Miser -> Status : Committed
+Name : G6 -> Attractiveness : 79 -> Maintenance Cost : 56 -> Intelligence Level : 89 -> Choosing criteria : Most Attractive -> Type : Normal -> Status : Committed
+
+Name : B12 -> Attractiveness : 94 -> Budget : 98 -> Intelligence Level : 10 -> Attracton Requirement : 37 -> Type : Geek -> Status : Committed
+Name : G14 -> Attractiveness : 73 -> Maintenance Cost : 41 -> Intelligence Level : 38 -> Choosing criteria : Most Rich -> Type : Choosy -> Status : Committed
+
+Name : B5 -> Attractiveness : 71 -> Budget : 9 -> Intelligence Level : 2 -> Attracton Requirement : 43 -> Type : Geek -> Status : Committed
+Name : G15 -> Attractiveness : 77 -> Maintenance Cost : 4 -> Intelligence Level : 36 -> Choosing criteria : Most Attractive -> Type : Normal -> Status : Committed
+
+Name : B3 -> Attractiveness : 94 -> Budget : 65 -> Intelligence Level : 59 -> Attracton Requirement : 4 -> Type : Generous -> Status : Committed
+Name : G5 -> Attractiveness : 31 -> Maintenance Cost : 27 -> Intelligence Level : 80 -> Choosing criteria : Most Attractive -> Type : Normal -> Status : Committed
+
+6 Most Compatible Couple ---------------------
+Name : B3 -> Attractiveness : 94 -> Budget : 65 -> Intelligence Level : 59 -> Attracton Requirement : 4 -> Type : Generous -> Status : Committed
+Name : G5 -> Attractiveness : 31 -> Maintenance Cost : 27 -> Intelligence Level : 80 -> Choosing criteria : Most Attractive -> Type : Normal -> Status : Committed
+
+Name : B12 -> Attractiveness : 94 -> Budget : 98 -> Intelligence Level : 10 -> Attracton Requirement : 37 -> Type : Geek -> Status : Committed
+Name : G14 -> Attractiveness : 73 -> Maintenance Cost : 41 -> Intelligence Level : 38 -> Choosing criteria : Most Rich -> Type : Choosy -> Status : Committed
+
+Name : B10 -> Attractiveness : 54 -> Budget : 57 -> Intelligence Level : 10 -> Attracton Requirement : 64 -> Type : Miser -> Status : Committed
+Name : G6 -> Attractiveness : 79 -> Maintenance Cost : 56 -> Intelligence Level : 89 -> Choosing criteria : Most Attractive -> Type : Normal -> Status : Committed
+
+Name : B11 -> Attractiveness : 33 -> Budget : 48 -> Intelligence Level : 69 -> Attracton Requirement : 7 -> Type : Generous -> Status : Committed
+Name : G4 -> Attractiveness : 83 -> Maintenance Cost : 36 -> Intelligence Level : 28 -> Choosing criteria : Most Rich -> Type : Normal -> Status : Committed
+
+Name : B14 -> Attractiveness : 84 -> Budget : 99 -> Intelligence Level : 54 -> Attracton Requirement : 1 -> Type : Geek -> Status : Committed
+Name : G3 -> Attractiveness : 50 -> Maintenance Cost : 69 -> Intelligence Level : 73 -> Choosing criteria : Most Rich -> Type : Normal -> Status : Committed
+
+Name : B1 -> Attractiveness : 40 -> Budget : 57 -> Intelligence Level : 28 -> Attracton Requirement : 1 -> Type : Geek -> Status : Committed
+Name : G7 -> Attractiveness : 40 -> Maintenance Cost : 34 -> Intelligence Level : 66 -> Choosing criteria : Most Attractive -> Type : Choosy -> Status : Committed
+
